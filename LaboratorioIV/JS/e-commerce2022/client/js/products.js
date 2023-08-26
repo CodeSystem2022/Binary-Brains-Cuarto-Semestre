@@ -1,17 +1,4 @@
-index.Js
-const shopContent = document.getElementById('shopContent');
-
-productos.forEach((producto) => {
-    const content = document.createElement('div');
-    content.innerHTML = `
-    <img src="${producto.img}">
-    <h3>${producto.productName}</h3>
-    <p>$${producto.price}</p>
-    `;
-    shopContent.appendChild(content);
-});
-
-products.Jsconst productos = [
+const productos = [
     {
         id: 1,
         productName: 'Banana',
@@ -22,14 +9,14 @@ products.Jsconst productos = [
     {
         id: 2,
         productName: 'Leche',
-        price: 950,
+        price: 450,
         quanty : 1,
         img: 'https://d3ugyf2ht6aenh.cloudfront.net/stores/001/160/839/products/013-003-009_leche-la-serenisma-entera-x-1-litro1-8f1dc924ed9d55a87815885191686834-1024-1024.jpg',
     },
     {
         id: 3,
         productName: 'Pollo',
-        price: 750,
+        price: 1750,
         quanty : 1,
         img: 'https://www.carnave.com.ar/wp-content/uploads/2020/05/Pollo-entero.jpg',
     },
