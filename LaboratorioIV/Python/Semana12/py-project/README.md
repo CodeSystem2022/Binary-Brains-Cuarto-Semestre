@@ -1,1 +1,0 @@
-Readme de la carpeta game - Python

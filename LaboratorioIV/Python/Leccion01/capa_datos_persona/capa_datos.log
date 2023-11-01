@@ -1,0 +1,41 @@
+05:55:35 PM:DEBUG [logger_base.py:14] Mensaje a nivel debug
+05:55:35 PM:INFO [logger_base.py:15] Mensaje a nivel info
+05:55:35 PM:WARNING [logger_base.py:16] Mensaje a nivel warning
+05:55:35 PM:ERROR [logger_base.py:17] Mensaje a nivel error
+05:55:35 PM:CRITICAL [logger_base.py:18] Mensaje a nivel critical
+06:00:53 PM:DEBUG [logger_base.py:13] Mensaje a nivel debug
+06:00:53 PM:INFO [logger_base.py:14] Mensaje a nivel info
+06:00:53 PM:WARNING [logger_base.py:15] Mensaje a nivel warning
+06:00:53 PM:ERROR [logger_base.py:16] Mensaje a nivel error
+06:00:53 PM:CRITICAL [logger_base.py:17] Mensaje a nivel critical
+07:23:27 PM:DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000285BF252790; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+07:23:27 PM:ERROR [conexion.py:39] Ocurrió un error: 'NoneType' object has no attribute 'cursor'
+05:54:02 PM:DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001FC2B251690; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+05:54:02 PM:ERROR [conexion.py:39] Ocurrió un error: 'NoneType' object has no attribute 'cursor'
+05:54:37 PM:DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000002B4369B1690; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+05:54:37 PM:ERROR [conexion.py:39] Ocurrió un error: 'NoneType' object has no attribute 'cursor'
+05:57:30 PM:DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000221D1381690; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+05:57:30 PM:ERROR [conexion.py:39] Ocurrió un error: 'NoneType' object has no attribute 'cursor'
+05:58:25 PM:DEBUG [Persona.py:55] 
+            Id Persona: 1,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: jperez@mail.com
+        
+05:58:25 PM:DEBUG [Persona.py:57] 
+            Id Persona: None,
+            Nombre: Jose,
+            Apellido: Lepez,
+            Email: ljose@mail.com
+        
+05:58:25 PM:DEBUG [Persona.py:59] 
+            Id Persona: 1,
+            Nombre: None,
+            Apellido: None,
+            Email: None
+        
+05:59:21 PM:DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001E710B51690; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+05:59:21 PM:ERROR [conexion.py:39] Ocurrió un error: 'NoneType' object has no attribute 'cursor'
+08:36:59 PM:DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000022009671690; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:36:59 PM:ERROR [conexion.py:39] Ocurrió un error: 'NoneType' object has no attribute 'cursor'
+08:44:43 PM:ERROR [conexion.py:26] Ocurrió un error: 

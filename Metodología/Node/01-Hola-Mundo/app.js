@@ -1,7 +1,7 @@
-const nombre = "Daniel";
+let nombre = 'Ariel';
 console.log(nombre);
 
-const nombre2 = "Juan";
-console.log(nombre2);
+nombre = 'Juan';
+console.log(nombre);
 
-console.log("Hola Mundo desde NodeJS");
+console.log('Hola mundo desdde Node');

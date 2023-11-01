@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding:0px;
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: aqua;
+}
+
+.contenedor{
+    position: relative;
+    margin:auto;
+    width:100%;
+    height: auto;
+
+}
+
+.fila{
+    position: relative;
+    margin:auto;
+    width:100%;
+    height: auto;
+}
+
