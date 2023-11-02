@@ -6,6 +6,7 @@
 [![Javagif1.gif](https://i.postimg.cc/cJjHcJHT/Javagif1.gif)](https://postimg.cc/2qQrkrnB)
 [![python1.gif](https://i.postimg.cc/yNC1BG2q/python1.gif)](https://postimg.cc/K1QSD0ZQ)
 [![JS.gif](https://i.postimg.cc/SsbNmx1f/JS.gif)](https://postimg.cc/VS4cRm8J)
+[![Presentaci-n-node.gif](https://i.postimg.cc/RCQG9L6R/Presentaci-n-node.gif)](https://postimg.cc/w3MDQJky)
 
 
 
