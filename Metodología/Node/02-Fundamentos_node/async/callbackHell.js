@@ -2,10 +2,8 @@ function hola(nombre, miCallback){
     setTimeout(function () {
         console.log('Hola '+nombre);
         miCallback(nombre);
-    },1000);
-    
+    },1000);   
 }
-
 function hablar(callbackHablar){
     setTimeout( function  ()  {
         console.log('bla bla bla bla');
@@ -37,7 +35,7 @@ hola('Ariel', function(nombre){
     });
 });
 
-//callback hell -> bienvenidos al infierno
+//callback hell -> bienvenidos al infierno//
 //hola('Carlos', function(nombre) { 
 //   hablar(function() {
 //      hablar(function){
