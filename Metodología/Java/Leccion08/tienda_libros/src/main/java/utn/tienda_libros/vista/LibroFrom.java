@@ -26,7 +26,7 @@ public class LibroFrom extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
         setSize(900, 700);
-         // Para obtener las dimensiones de la ventana
+        // Para obtener las dimensiones de la ventana
         Toolkit toolkit = Toolkit.getDefaultToolkit();
         Dimension tamanioPantalla = toolkit.getScreenSize();
         int x = (tamanioPantalla.width - getWidth()/2);
@@ -44,13 +44,17 @@ public class LibroFrom extends JFrame {
     }
 
     private void listarLibros(){
+
         //Limpiar la tabla
+
         tablaModeloLibros.setRowCount(0);
         //Obtener los libros de la BD
         var libros = libroServicio.listarLibros();
         //Iteramos cada libro
         libros.forEach((libro) -> {// Funcion Lambda
+
             //Creamos cada registro para agregarlos a la tabla
+
             Object [] renglonLibro = {
                     libro.getIdLibro(),
                     libro.getNombreLibro(),
