@@ -5,4 +5,4 @@ console.log('Hola '+ nombre);
 console.log('Mi web es: '+ web);
 console.log('Ultima ejecucion');
 console.log('prueba')
-//funciona el sistema de nodemon
+//funciona el sistema de nodemon?
