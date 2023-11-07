@@ -29,11 +29,11 @@
  
 
 ## `Integrantes` :point_down:
-#### :brain:  Liscio, Natalia. 
-#### :brain:  Molina, Luís Guillermo.
-#### :brain:  Piccinni, Tamara.
-#### :brain:  Riddick, Carolina.
-#### :brain:  Sandrea,	Mauricio.
-#### :brain:  Serezo,	Luciana.
+1. #### :brain:  Liscio, Natalia. 
+2. #### :brain:  Molina, Luís Guillermo.
+3. #### :brain:  Piccinni, Tamara.
+4. #### :brain:  Riddick, Carolina.
+5. #### :brain:  Sandrea,	Mauricio.
+6. #### :brain:  Serezo,	Luciana.
 
 
