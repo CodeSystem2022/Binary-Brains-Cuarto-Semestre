@@ -65,9 +65,9 @@ Postman: Herramienta utilizada para el testeo de la API-REST
 6. (Opcional) en caso de necesidad de apertura de puertos: Utilizar sistema de gestión de bases de datos: en mi caso <b>XAMP</b>, para abrir los puertos de conexión.
 7. Iniciar el proyecto desde el IDE
 
-### Endpoints de la API
+#### Endpoints de la API
 
-#### POST
+##### POST
 
 El endpoint de creación de tareas es: http://localhost:8080/api/v1/tasks/create
 
